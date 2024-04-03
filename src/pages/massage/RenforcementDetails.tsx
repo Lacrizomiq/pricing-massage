@@ -2,11 +2,11 @@ import img from "../../assets/renforcement-musculaire.png";
 
 const RenforcementDetails = () => {
   return (
-    <div className="flex flex-col lg:flex-row w-full max-w-screen-lg mx-auto px-6 py-6 mt-6 rounded overflow-hidden shadow-lg bg-white">
-      <div className="flex flex-1 justify-center items-center lg:justify-start lg:items-start">
+    <div className="flex flex-col rounded overflow-hidden shadow-lg bg-white p-6 m-4">
+      <div>
         <img src={img} alt="Renforcement musculaire" />
       </div>
-      <div className="mt-4 md:mt-0 md:ml-4 flex-grow">
+      <div className="m-4">
         <p>
           Découvrez les nombreux avantages du renforcement musculaire. En plus
           d'augmenter la force et l'endurance, d'améliorer la posture et de
