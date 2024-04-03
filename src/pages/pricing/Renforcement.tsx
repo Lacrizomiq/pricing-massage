@@ -12,7 +12,7 @@ const Renforcement = () => {
         </div>
         <p className="text-gray-700 text-base flex-grow">
           Coaching personnalisé à base de renforcement musculaire, d'exercices
-          de mobilité et de massage
+          de mobilité et de massages.
         </p>
         <p className="text-gray-700 text-base flex-grow mt-4 mb-2">
           <ul>
