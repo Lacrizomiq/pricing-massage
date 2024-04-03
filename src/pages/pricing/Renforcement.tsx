@@ -18,7 +18,7 @@ const Renforcement = () => {
           <ul>
             <li className="flex items-center">
               <IoMdCheckmark />
-              <p className="px-3">Séance de renforcement musculaire</p>
+              <p className="px-3">Séances de renforcement musculaire</p>
             </li>
             <li className="flex items-center">
               <IoMdCheckmark />
