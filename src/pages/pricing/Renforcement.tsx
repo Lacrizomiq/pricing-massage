@@ -2,6 +2,8 @@ import { GiWeightLiftingUp } from "react-icons/gi";
 
 import { IoMdCheckmark } from "react-icons/io";
 
+import { Link } from "react-router-dom";
+
 const Renforcement = () => {
   return (
     <div className="flex flex-col min-w-[350px] min-h-[300px] max-w-sm rounded overflow-hidden shadow-lg bg-white p-6 m-4">
@@ -52,7 +54,7 @@ const Renforcement = () => {
         </span>
         <div>
           <span className="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-700 ml-2">
-            En savoir plus !
+            <Link to="/coaching-massage">En savoir plus !</Link>
           </span>
         </div>
       </div>
