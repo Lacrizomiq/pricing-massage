@@ -30,13 +30,13 @@ const MassageBienEtre = () => {
       </div>
       <div className="flex mt-auto pt-4 pb-2">
         <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">
-          60 minutes
+          60 min
         </span>
         <span className="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-700 mr-2 mb-2">
           60 €
         </span>
         <div>
-          <span className="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-700 ml-4">
+          <span className="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-700 ml-2">
             En savoir plus !
           </span>
         </div>

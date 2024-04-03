@@ -51,7 +51,7 @@ const Renforcement = () => {
           400 €
         </span>
         <div>
-          <span className="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-700 ml-4">
+          <span className="inline-block bg-blue-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-700 ml-2">
             En savoir plus !
           </span>
         </div>
