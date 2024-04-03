@@ -14,9 +14,6 @@ const router = createBrowserRouter(
     <Route path="/" element={<Layout />}>
       <Route index element={<Home />} />
 
-      <Route path="mobilite-massage" element={<Layout />} />
-      <Route path="massage-sportif" element={<Layout />} />
-      <Route path="massage-bien-etre" element={<Layout />} />
       <Route path="coaching-massage" element={<RenforcementDetails />} />
     </Route>
   )
